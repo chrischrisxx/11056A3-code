@@ -1,0 +1,45 @@
+body {
+  min-height: 100vh;
+  background-color: rgb(255, 255, 255);
+}
+
+.profile {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 16px;
+  min-height: calc(100vh - 80px);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 18px;
+}
+
+.text {
+  width: 50%;
+  font-style: italic;
+}
+
+.text p {
+  margin-bottom: 32px;
+}
+
+.title {
+  font-size: 20px;
+  font-weight: bold;
+  font-style: normal;
+}
+
+.right {
+  width: 40%;
+}
+
+.mic {
+  text-align: center;
+  margin-top: 32px;
+}
+
+@media screen and (max-width: 1280px)  {
+  .profile {
+    flex-direction: column;
+  }
+}

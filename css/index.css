@@ -1,0 +1,26 @@
+body {
+  min-height: 100vh;
+  background-image: url(../images/homebg.webp);
+  background-size: cover;
+  background-position: center;
+}
+
+.title-wrap {
+  position: absolute;
+  top: 50%;
+  right: 10%;
+  transform: translate(0%, -50%);
+  color: #fff;
+}
+
+.title {
+  font-size: 100px;
+}
+
+.tips {
+  font-size: 22px;
+}
+
+.zwf {
+  height: 100vh;
+}
