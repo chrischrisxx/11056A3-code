@@ -48,3 +48,32 @@ It provides practical tutorials on the VS Code editor, which helps me master fun
 Powerhouse Museum Collection – https://collection.powerhouse.com.au
 
 This website provides images and detailed descriptions of Gordon Andrews's design work, including furniture, graphic design, and other projects. I have obtained many visual materials and background information related to Andrews from it to enrich my website content and design inspiration.
+
+
+
+
+
+
+Text References：
+
+Gordon Andrews, b. 1914. (n.d.-b). National Portrait Gallery People. https://www.portrait.gov.au/people/gordon-andrews-1914
+
+Reserve Bank of Australia. (2021b). The Designer: Gordon Andrews. Rba.gov.au. https://museum.rba.gov.au/exhibitions/the-decimal-revolution/gordon-andrews/biography/
+
+
+Visual References（Images）：
+
+Homepage image: https://www.portrait.gov.au/portraits/2001.127/gordon-andrews-lovett-bay-sydney
+
+About-image:https://www.portrait.gov.au/portraits/2005.54/gordon-andrews-at-lovett-bay-nsw 
+
+‘7 Designers’: https://collection.powerhouse.com.au/object/99658
+'Gazelle' chair: https://collection.powerhouse.com.au/object/96268
+Composition' painting: https://collection.powerhouse.com.au/object/361967
+'Spider chair: https://collection.powerhouse.com.au/object/141505
+Photograph: https://collection.powerhouse.com.au/object/99694
+'Rondo chair' : https://collection.powerhouse.com.au/object/143508
+
+Australian Dolloar: https://en.wikipedia.org/wiki/Gordon_Andrews_(industrial_designer)#/media/File:Australian_$10_-_original_series_-_reverse.jpg
+
+
