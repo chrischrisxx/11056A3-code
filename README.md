@@ -1,4 +1,7 @@
-Project Reflection: 
+# 11056A3: Rationale
+
+
+- Project Reflection: 
 
 In this web design project, I have further understood the concepts of web page structure, visual communication, and user experience design through practice. The whole website revolves around Gordon Andrews' modernist design concept. I try to reflect his style in layout, color selection, font application,  and make the interface as intuitive and straightforward as possible to enhance the comfort of the user browsing. I pay special attention to the logical clarity of navigation to ensure visitors can easily find the information they need, which performs well in the desktop test. I also implemented a function that displays related text when the mouse hovers over the picture. This design enhances the interactivity of the page and improves the efficiency of information transmission. Users can get more background content or work descriptions while browsing without clicking on the picture, reducing the operation steps and improving the fluency of the user experience.
 
@@ -9,8 +12,7 @@ Modern web design must consider multi-device compatibility, and it is far from e
 Through this project, I exercised my practical skills in HTML and CSS and learned how to transform design concepts into specific interfaces. More importantly, this process made me realize the importance of project testing and user experience evaluation. In future design practice, I will take this experience on breakpoint as a key improvement direction and continuously improve my ability in front-end development and cross-device interface optimization.
 
 
-
-Prototypes - Design Intentions and Implementation:
+- Prototypes - Design Intentions and Implementation:
 
 Most of my core page structures and design styles were successfully implemented during the development process according to the high-fidelity prototype, including the homepage layout and responsive navigation bar.
 
@@ -21,8 +23,7 @@ However, some design ideas were not realized. I originally planned to add more s
 Through the prototype design and development comparison process, I have gained a deeper understanding of the need to balance design concepts and technical implementations. I also learned how to make reasonable trade-offs within a limited time and capabilities.
 
 
-
-Annotated List of Useful Resources:
+- Annotated List of Useful Resources:
 
 
 W3Schools – https://www.w3schools.com
@@ -54,26 +55,29 @@ This website provides images and detailed descriptions of Gordon Andrews's desig
 
 
 
-Text References：
+- Text References：
 
 Gordon Andrews, b. 1914. (n.d.-b). National Portrait Gallery People. https://www.portrait.gov.au/people/gordon-andrews-1914
 
 Reserve Bank of Australia. (2021b). The Designer: Gordon Andrews. Rba.gov.au. https://museum.rba.gov.au/exhibitions/the-decimal-revolution/gordon-andrews/biography/
 
 
-Visual References（Images）：
+- Visual References（Images）：
 
 Homepage image: https://www.portrait.gov.au/portraits/2001.127/gordon-andrews-lovett-bay-sydney
 
 About-image:https://www.portrait.gov.au/portraits/2005.54/gordon-andrews-at-lovett-bay-nsw 
 
 ‘7 Designers’: https://collection.powerhouse.com.au/object/99658
+
 'Gazelle' chair: https://collection.powerhouse.com.au/object/96268
+
 Composition' painting: https://collection.powerhouse.com.au/object/361967
+
 'Spider chair: https://collection.powerhouse.com.au/object/141505
+
 Photograph: https://collection.powerhouse.com.au/object/99694
+
 'Rondo chair' : https://collection.powerhouse.com.au/object/143508
 
-Australian Dolloar: https://en.wikipedia.org/wiki/Gordon_Andrews_(industrial_designer)#/media/File:Australian_$10_-_original_series_-_reverse.jpg
-
-
+Australian Dolloar: https://en.wikipedia.org/wiki/Gordon_Andrews_(industrial_designer)
