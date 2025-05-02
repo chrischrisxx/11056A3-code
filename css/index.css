@@ -24,3 +24,22 @@ body {
 .zwf {
   height: 100vh;
 }
+
+@media screen and (max-width: 768px)  {
+  .title-wrap {
+    position: absolute;
+    top: 50%;
+    left: 16px;
+    right: 16px;
+    transform: translate(0%, -50%);
+    color: #fff;
+  }
+
+  .title {
+    font-size: 80px;
+  }
+  
+  .tips {
+    font-size: 16px;
+  }
+}

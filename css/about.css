@@ -18,8 +18,19 @@ body {
   width: 50%;
 }
 
-@media screen and (max-width: 1280px)  {
+@media screen and (max-width: 1280px) {
   .profile {
     flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .profile img {
+    width: 100%;
+  }
+
+  .right {
+    width: 100%;
+    margin: 16px 0;
   }
 }

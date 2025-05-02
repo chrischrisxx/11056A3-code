@@ -59,3 +59,9 @@ body {
 .desc {
   font-style: italic;
 }
+
+@media screen and (max-width: 768px) {
+  .list {
+    justify-content: center;
+  }
+}
